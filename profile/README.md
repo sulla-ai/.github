@@ -2,6 +2,9 @@
 
 Your local-first AI swarm desktop. Modular neural network agents. Zero cloud. Full control. Runs on Mac.
 
+![sulla-preview](https://github.com/user-attachments/assets/aff9dbc9-8968-4ef3-9097-ee045cd4b706)
+
+
 * * *
 
 **Sulla** is a named robot from Karel Čapek's 1920 play R.U.R. (Rossum's Universal Robots)—the exact work that invented the word "robot."
